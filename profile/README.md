@@ -52,7 +52,7 @@
 * Socket.IO
 * Prisma (DB ORM)
 * Session / Auth Middleware
-
+* postgreSQL
 ---
 
 ## 📂 Repository Structure
